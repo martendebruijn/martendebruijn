@@ -1,7 +1,7 @@
-### Hi there 👋
+# Hi, my name is Marten de Bruijn :wave:
 
-- ⭐️ Check out my own website: [martendebruijn.nl](https://martendebruijn.nl)
-- 🔭 I’m currently working on: [Music Map](https://github.com/martendebruijn/music-map) – Visualise the countries of your top played music artists from Spotify
-- 🌱 I’m currently learning: MongoDB
-- 📫 How to reach me: <a href="mailto:marten@martendebruijn.nl">marten@martendebruijn.nl</a>
-- ⚡ Fun fact: my favorite font is Helvetica (especially the capital "G")
+I'm currently working as a front-end JavaScript Engineer [@Mozard](https://mozard.nl)
+
+[![Marten de Bruijn's GitHub stats](https://github-readme-stats.vercel.app/api?username=martendebruijn)](https://github.com/martendebruijn/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martendebruijn)](https://github.com/martendebruijn/github-readme-stats)
