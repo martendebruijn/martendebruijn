@@ -1,7 +1,3 @@
-<img src="./img/avatar.png" alt="picture of the letter m" style="borderRadius:50%;" height="100" width="100" />
-
-<br>
-
 # Hi! 👋<br>I'm Marten de Bruijn
 
 🏢 Currently working for [@Mozard](https://mozard.nl) as a Front-end Engineer
