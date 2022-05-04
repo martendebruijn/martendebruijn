@@ -2,19 +2,18 @@
 
 🏢 Currently working for [@Mozard](https://mozard.nl) as a Front-end Engineer
 
-<br>
+<br/>
 
 ## The daily gist
 
-<code><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg' width="40" height="40" alt="javascript wordmark" title="JavaScript" /></code>
-<code><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg' width="40" height="40" alt="css3 wordmark" title="CSS3" /></code>
-<code><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons//html5/html5-original-wordmark.svg' width="40" height="40" alt="html5 wordmark" title="HTML5" /></code>
-<code><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg' width="40" height="40" alt="vuejs wordmark" title="Vue.js" /></code>
-<code><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original-wordmark.svg' width="40" height="40" alt="storybook wordmark" title="Storybook" /></code>
-<code><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg' width="40" height="40" alt="sass wordmark" title="Sass" /></code>
-<code><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg' width="40" height="40" alt="tailwindcss wordmark" title="TailwindCSS" /></code>
+<code><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg' width="40" height="40" alt="javascript wordmark" title="JavaScript" />
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg' width="40" height="40" alt="css3 wordmark" title="CSS3" /><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons//html5/html5-original-wordmark.svg' width="40" height="40" alt="html5 wordmark" title="HTML5" />
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg' width="40" height="40" alt="vuejs wordmark" title="Vue.js" />
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original-wordmark.svg' width="40" height="40" alt="storybook wordmark" title="Storybook" />
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg' width="40" height="40" alt="sass wordmark" title="Sass" />
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg' width="40" height="40" alt="tailwindcss wordmark" title="TailwindCSS" /></code>
 
-<br>
+<br />
 
 ## Other media
 
