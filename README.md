@@ -1,6 +1,10 @@
 # Hi! 👋<br>I'm Marten de Bruijn
 
-🏢 Currently working for [@Mozard](https://mozard.nl) as a Front-end Engineer
+> I'm a front-end developer who mostly writes in JavaScript and who loves to make new front-end components and that are accessible to everyone.
+
+- 🏢 Currently working for [@Mozard](https://mozard.nl) as a Front-end Engineer
+- 🇳🇱 male living in 🇧🇪
+- ♿️ a11y advocate
 
 <br/>
 
