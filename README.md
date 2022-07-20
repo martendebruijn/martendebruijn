@@ -26,6 +26,16 @@
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original-wordmark.svg' width="40" height="40" alt="nuxtjs wordmark" title="Nuxtjs" />
 </code>
 
+<br />
+
+## Currently learning
+
+<code>
+<img src='https://www.cypress.io/static/33498b5f95008093f5f94467c61d20ab/c0bf4/cypress-logo.webp' width="120" height="40" alt="d3js wordmark" title="D3js" />
+</code>
+
+<br />
+
 ## Other media
 
   <a href="https://www.linkedin.com/in/martendebruijn/" title="LinkedIn">
