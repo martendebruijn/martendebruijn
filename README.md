@@ -19,18 +19,21 @@
 
 <br />
 
-## Currently learning
+## Have used it
 
-<code><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/d3js/d3js-original.svg' width="40" height="40" alt="d3js wordmark" title="d3js" /></code>
+<code>
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/d3js/d3js-original.svg' width="40" height="40" alt="d3js wordmark" title="D3js" />
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original-wordmark.svg' width="40" height="40" alt="nuxtjs wordmark" title="Nuxtjs" />
+</code>
 
 ## Other media
 
-  <a href="https://www.linkedin.com/in/martendebruijn/">
+  <a href="https://www.linkedin.com/in/martendebruijn/" title="LinkedIn">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile Marten de Bruijn"/>
   </a>
-  <a href="https://gitlab.com/martendebruijn/">
+  <a href="https://gitlab.com/martendebruijn/" title="GitLab">
     <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" alt="Gitlab profile Marten de Bruijn"/>
   </a>
-  <a href="https://codepen.io/martendebruijn">
+  <a href="https://codepen.io/martendebruijn" title="Codepen">
     <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen profile Marten de Bruijn"/>
   </a>
