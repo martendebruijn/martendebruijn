@@ -24,6 +24,7 @@
 <code>
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/d3js/d3js-original.svg' width="40" height="40" alt="d3js wordmark" title="D3js" />
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original-wordmark.svg' width="40" height="40" alt="nuxtjs wordmark" title="Nuxtjs" />
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg' width="40" height="40" alt="typescript wordmark" title="Typescript" />
 </code>
 
 <br />
