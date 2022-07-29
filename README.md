@@ -31,11 +31,11 @@
 
 <br />
 
-<!-- ## Currently learning -->
+<!-- ## Currently learning
 
 <code>
 
-</code>
+</code> -->
 
 <br />
 
