@@ -25,14 +25,16 @@
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/d3js/d3js-original.svg' width="40" height="40" alt="d3js wordmark" title="D3js" />
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original-wordmark.svg' width="40" height="40" alt="nuxtjs wordmark" title="Nuxtjs" />
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg' width="40" height="40" alt="typescript wordmark" title="Typescript" />
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg' width="40" height="40" alt="jest wordmark" title="Jest" />
+<img src='https://www.cypress.io/static/33498b5f95008093f5f94467c61d20ab/c0bf4/cypress-logo.webp' width="120" height="40" alt="Cypress wordmark" title="Cypress" />
 </code>
 
 <br />
 
-## Currently learning
+<!-- ## Currently learning -->
 
 <code>
-<img src='https://www.cypress.io/static/33498b5f95008093f5f94467c61d20ab/c0bf4/cypress-logo.webp' width="120" height="40" alt="Cypress wordmark" title="Cypress" />
+
 </code>
 
 <br />
