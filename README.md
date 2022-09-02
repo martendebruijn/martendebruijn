@@ -26,7 +26,7 @@
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original-wordmark.svg' width="40" height="40" alt="nuxtjs wordmark" title="Nuxtjs" />
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg' width="40" height="40" alt="typescript wordmark" title="Typescript" />
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg' width="40" height="40" alt="jest wordmark" title="Jest" />
-<img src='https://www.cypress.io/static/33498b5f95008093f5f94467c61d20ab/c0bf4/cypress-logo.webp' width="120" height="40" alt="Cypress wordmark" title="Cypress" />
+<img src='https://raw.githubusercontent.com/cypress-io/cypress-icons/master/src/icons/icon_38x38.png' width="38" height="38" alt="Cypress wordmark" title="Cypress" />
 </code>
 
 <br />
