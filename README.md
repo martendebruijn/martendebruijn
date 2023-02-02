@@ -6,7 +6,7 @@
 - 🇳🇱 male living in 🇧🇪
 - ♿️ a11y advocate
 
-<br/>
+<!-- <br/>
 
 ## The daily gist
 
@@ -29,7 +29,7 @@
 <img src='https://raw.githubusercontent.com/cypress-io/cypress-icons/master/src/icons/icon_38x38.png' width="38" height="38" alt="Cypress wordmark" title="Cypress" />
 </code>
 
-<br />
+<br /> -->
 
 <!-- ## Currently learning
 
