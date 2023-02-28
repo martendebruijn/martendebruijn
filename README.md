@@ -1,11 +1,10 @@
 # Hi! 👋<br>I'm Marten de Bruijn
 
-> I'm a front-end engineer who mostly writes in TypeScript/JavaScript and who loves to make new front-end components or building other things with Node.js.
+> I'm a front-end engineer who mostly writes in TypeScript/JavaScript and who loves to make new front-end components or build other things with TypeScript.
 
 - 🏢 Currently working for [@Mozard](https://mozard.nl) as a Front-end Engineer
 - 🇳🇱 male living in 🇧🇪
 - ❤️ I enjoy writing TypeScript, Vue, (S)CSS
-- ❇️ I like to use Node.js
 
 <br>
 
