@@ -1,14 +1,11 @@
 # Hi! 👋<br>I'm Marten de Bruijn
 
-> [!TIP]
-> I'm open to work! Don't hesitate to contact me! Send me an email at [martendebruijn@outlook.com](mailto:martendebruijn@outlook.com)
-
 > I'm a front-end engineer who mostly writes in TypeScript/JavaScript and who loves to make new front-end components or build other things with TypeScript.
 
-* 🏢 Currently working for [@Mozard](https://mozard.nl) as a Front-end Engineer
-* 🇳🇱 male living in 🇧🇪
-* ❤️ I enjoy writing TypeScript, Vue, (S)CSS
-* 📸 If I'm not coding, I'm out taking [photos](https://instagram.com/martentriestotakephotos)
+- 🏢 Currently working for [@MICE Operations](https://www.miceoperations.com/) as a Front-end developer
+- 🇳🇱 male living in 🇧🇪
+- ❤️ I enjoy writing TypeScript, Vue, (S)CSS
+- 📸 If I'm not coding, I'm out taking [photos](https://instagram.com/martentriestotakephotos)
 
 <br>
 
