@@ -3,8 +3,8 @@
 > I'm a front-end engineer who mostly writes in TypeScript/JavaScript and who loves to make new front-end components or build other things with TypeScript.
 
 - 🏢 Currently working for [@MICE Operations](https://www.miceoperations.com/) as a Front-end developer
-- 🇳🇱 male living in 🇧🇪
-- ❤️ I enjoy writing TypeScript, Vue, (S)CSS
+- ❤️ I enjoy writing TypeScript, Vue, React, (S)CSS
+- ⚡️ I made my own [TypeScript library](https://github.com/martendebruijn/types)
 - 📸 If I'm not coding, I'm out taking [photos](https://instagram.com/martentriestotakephotos)
 
 <br>
@@ -25,8 +25,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=martendebruijn&layout=compact&theme=solarized-light" alt="Most used languages by Marten"/>
 </picture>
 
-<br>
-
 ## Other media
 
 <a href="https://www.linkedin.com/in/martendebruijn/" title="LinkedIn">
@@ -37,9 +35,6 @@
 </a>
 <a href="https://codepen.io/martendebruijn" title="Codepen">
   <img src="https://img.shields.io/badge/martendebruijn-000000?style=for-the-badge&logo=codepen&logoColor=white&style=social" alt="CodePen profile Marten de Bruijn"/>
-</a>
-<a href="https://leetcode.com/martendebruijn/" title="Leetcode">
-  <img src="https://img.shields.io/badge/-martendebruijn-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black&style=social" alt="Leetcode profile Marten de Bruijn"/>
 </a>
 <a href="https://instagram.com/martentriestotakephotos" title="@martentriestotakephotos">
   <img src="https://img.shields.io/badge/@martentriestotakephotos-E4405F?style=for-the-badge&logo=instagram&logoColor=white&style=social" alt="Link to Marten tries to take photos on Instagram"/>
