@@ -1,10 +1,12 @@
 # Hi! 👋<br>I'm Marten de Bruijn
 
-> I'm a front-end engineer who mostly writes in TypeScript/JavaScript and who loves to make new front-end components or build other things with TypeScript.
+> I'm a front-end engineer who mostly writes in TypeScript and who loves to make new front-end components and systems or build other things with TypeScript.
 
-- 🏢 Currently working for [@MICE Operations](https://www.miceoperations.com/) as a Front-end developer
-- ❤️ I enjoy writing TypeScript, Vue, React, (S)CSS
-- ⚡️ I made my own [TypeScript library](https://github.com/martendebruijn/types)
+- 🏢 Currently working for [@MICE Operations](https://www.miceoperations.com/) and [@Beer n Tea](https://www.beerntea.com/) as a Front-end developer
+- ❤️ I enjoy writing TypeScript, React, Vue, (S)CSS, NPM packages
+- ⚡️ I made my own [TypeScript types library](https://github.com/martendebruijn/types)
+- ⚡️ Currently working on a [TypeScript utility library](https://github.com/martendebruijn/utils)
+- 🔧 [My dotfiles](https://github.com/martendebruijn/dotfiles)
 - 📸 If I'm not coding, I'm out taking [photos](https://instagram.com/martentriestotakephotos)
 
 <br>
