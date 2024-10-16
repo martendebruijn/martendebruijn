@@ -5,7 +5,6 @@
 - 🏢 Currently working for [@MICE Operations](https://www.miceoperations.com/) and [@Beer n Tea](https://www.beerntea.com/) as a Front-end developer
 - ❤️ I enjoy writing TypeScript, React, Vue, (S)CSS, NPM packages
 - ⚡️ I made my own [TypeScript types library](https://github.com/martendebruijn/types)
-- ⚡️ Currently working on a [TypeScript utility library](https://github.com/martendebruijn/utils)
 - 🔧 [My dotfiles](https://github.com/martendebruijn/dotfiles)
 - 📸 If I'm not coding, I'm out taking [photos](https://instagram.com/martentriestotakephotos)
 
