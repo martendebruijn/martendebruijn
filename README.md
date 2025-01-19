@@ -3,11 +3,7 @@
 > I'm a front-end engineer who mostly writes in TypeScript and who loves to make new front-end components and systems or build other things with TypeScript.
 
 - 🏢 Currently working for [@MICE Operations](https://www.miceoperations.com/) and [@Beer n Tea](https://www.beerntea.com/) as a Front-end developer
-- ❤️ I enjoy writing TypeScript, React, Vue, (S)CSS, NPM packages
-- ⚡️ I made my own [TypeScript types library](https://github.com/martendebruijn/types)
-- ⚡️ Currently working on a [TypeScript utility library](https://github.com/martendebruijn/utils)
-- 🔧 [My dotfiles](https://github.com/martendebruijn/dotfiles)
-- 📸 If I'm not coding, I'm out taking [photos](https://instagram.com/martentriestotakephotos)
+- ❤️ I enjoy writing TypeScript, React, Vue, (S)CSS, NPM packages, Python, StoryBook
 
 <br>
 
@@ -26,6 +22,17 @@
   />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=martendebruijn&layout=compact&theme=solarized-light" alt="Most used languages by Marten"/>
 </picture>
+
+## Projects
+
+- ⚡️ I made my own [TypeScript types library](https://github.com/martendebruijn/types)
+- ⚙️ [My dotfiles](https://github.com/martendebruijn/dotfiles)
+- 👾 [Delete merged branches](https://github.com/martendebruijn/delete-merged)
+- 💚 [Automate updating NPM dependencies](https://github.com/martendebruijn/npm-update)
+
+## Other
+
+- 📸 If I'm not coding, I'm out taking [photos](https://instagram.com/martentriestotakephotos)
 
 ## Other media
 
