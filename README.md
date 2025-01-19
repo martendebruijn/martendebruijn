@@ -1,6 +1,6 @@
 # Hi! 👋<br>I'm Marten de Bruijn
 
-> I'm a front-end engineer who mostly writes in TypeScript and who loves to make new front-end components and systems or build other things with TypeScript.
+> And I'm a front-end engineer who mostly writes in TypeScript and React and who loves to make new design systems and build other things with TypeScript or Python.
 
 - 🏢 Currently working for [@MICE Operations](https://www.miceoperations.com/) and [@Beer n Tea](https://www.beerntea.com/) as a Front-end developer
 - ❤️ I enjoy writing TypeScript, React, Vue, (S)CSS, NPM packages, Python, StoryBook
@@ -26,15 +26,15 @@
 ## Projects
 
 - ⚡️ I made my own [TypeScript types library](https://github.com/martendebruijn/types)
-- ⚙️ [My dotfiles](https://github.com/martendebruijn/dotfiles)
-- 👾 [Delete merged branches](https://github.com/martendebruijn/delete-merged)
-- 💚 [Automate updating NPM dependencies](https://github.com/martendebruijn/npm-update)
+- ⚙️ Have a look at [my dotfiles](https://github.com/martendebruijn/dotfiles)
+- 👾 [Delete merged branches](https://github.com/martendebruijn/delete-merged) with one command
+- 💚 [Automate updating NPM dependencies](https://github.com/martendebruijn/npm-update), because doing it yourself is cumbersome
 
 ## Other
 
 - 📸 If I'm not coding, I'm out taking [photos](https://instagram.com/martentriestotakephotos)
 
-## Other media
+## Find me on
 
 <a href="https://www.linkedin.com/in/martendebruijn/" title="LinkedIn">
   <img src="https://img.shields.io/badge/martendebruijn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=social" alt="LinkedIn profile Marten de Bruijn"/>
