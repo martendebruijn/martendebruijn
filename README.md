@@ -27,7 +27,6 @@
 
 - ⚡️ I made my own [TypeScript types library](https://github.com/martendebruijn/types)
 - ⚙️ Have a look at [my dotfiles](https://github.com/martendebruijn/dotfiles)
-- 👾 [Delete merged branches](https://github.com/martendebruijn/delete-merged) with one command
 - 💚 [Automate updating NPM dependencies](https://github.com/martendebruijn/npm-update), because doing it yourself is cumbersome
 
 ## Other
