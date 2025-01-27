@@ -1,6 +1,6 @@
 # Hi! 👋<br>I'm Marten de Bruijn
 
-> And I'm a front-end engineer who mostly writes in TypeScript and React and who loves to make new design systems and build other things with TypeScript or Python.
+> I'm a front-end engineer who mostly writes in TypeScript and React and who loves to make new design systems and build other things with TypeScript or Python.
 
 - 🏢 Currently working for [@MICE Operations](https://www.miceoperations.com/) and [@Beer n Tea](https://www.beerntea.com/) as a Front-end developer
 - ❤️ I enjoy writing TypeScript, React, Vue, (S)CSS, NPM packages, Python, StoryBook
@@ -27,7 +27,7 @@
 
 - ⚡️ I made my own [TypeScript types library](https://github.com/martendebruijn/types)
 - ⚙️ Have a look at [my dotfiles](https://github.com/martendebruijn/dotfiles)
-- 💚 [Automate updating NPM dependencies](https://github.com/martendebruijn/npm-update), because doing it yourself is cumbersome
+- 💚 [Automate updating NPM dependencies](https://github.com/martendebruijn/npm-update), because doing it yourself is cumbersome (work in progress)
 
 ## Other
 
