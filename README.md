@@ -26,7 +26,7 @@
 ## Projects
 
 - ⚙️ Have a look at [my dotfiles](https://github.com/martendebruijn/dotfiles)
-- 💚 [Automate updating NPM dependencies](https://github.com/martendebruijn/npm-update), because doing it yourself is cumbersome **(work in progress)**
+- ⚡️ I made my own [TypeScript types library](https://github.com/martendebruijn/types)
 
 ## Other
 
