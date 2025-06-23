@@ -26,8 +26,6 @@
 ## Projects
 
 - ⚙️ Have a look at [my dotfiles](https://github.com/martendebruijn/dotfiles)
-- ⚡️ I made my own [TypeScript types library](https://github.com/martendebruijn/types)
-- 🎨 I'm making a [CSS stylesheet for native HTML elements](https://github.com/martendebruijn/css), as a base styling for prototypes or for when I can't be bothered to add styling
 
 ## Other
 
