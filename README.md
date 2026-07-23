@@ -23,10 +23,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=martendebruijn&layout=compact&theme=solarized-light" alt="Most used languages by Marten"/>
 </picture>
 
-## Projects
-
-- ⚙️ Have a look at [my dotfiles](https://github.com/martendebruijn/dotfiles)
-
 ## Other
 
 - 📸 If I'm not coding, I'm out taking [photos](https://instagram.com/martentriestotakephotos)
