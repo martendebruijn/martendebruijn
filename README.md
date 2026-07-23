@@ -2,7 +2,7 @@
 
 > I'm a front-end engineer who mostly writes in TypeScript and React and who loves to make new design systems and build other things with TypeScript.
 
-- 🏢 Currently working for [@Beer n Tea](https://www.beerntea.com/) and [@MICE Operations](https://www.miceoperations.com/) as a Front-end developer
+- 🏢 Currently working for [@Beer n Tea](https://www.beerntea.com/) as a Front-end developer
 - ❤️ I enjoy writing TypeScript, React, Vite, Vitest, (S)CSS, NPM packages, StoryBook, Vue
 
 <br>
